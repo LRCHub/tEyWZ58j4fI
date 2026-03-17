@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "base_track": "Cuz It's Wrong",
+  "base_artist": "Slick Rick",
+  "createdAt": "2026-03-17T20:38:11.019367Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cuz It's Wrong",
+      "artist": "Slick Rick",
+      "has_synced": true,
+      "path": "select/01_Cuz_It's_Wrong_Slick_Rick.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cuz Its Wrong",
+      "artist": "Slick Rick",
+      "has_synced": true,
+      "path": "select/02_Cuz_Its_Wrong_Slick_Rick.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cuz It’s Wrong",
+      "artist": "Slick Rick",
+      "has_synced": true,
+      "path": "select/03_Cuz_It’s_Wrong_Slick_Rick.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cuz It's Wrong",
+      "artist": "Slick Rick",
+      "has_synced": false,
+      "path": "select/pl_01_Cuz_It's_Wrong_Slick_Rick.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Cuz It's Wrong",
+      "artist": "Slick Rick",
+      "has_synced": true,
+      "path": "select/localdb_01_Cuz_It's_Wrong_Slick_Rick.lrc",
+      "repo_name": "UtsV61-Q3JI"
+    }
+  ]
+}
